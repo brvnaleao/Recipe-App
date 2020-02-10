@@ -5,7 +5,7 @@ import Recipe from './Recipe.js'
 
 const App = () =>{
 
-/* change the string in APP_ID and APP_KEY to your credentials at edamam API, @recipe api tab*/
+/**  change the string in APP_ID and APP_KEY to your credentials at edamam API, at recipe api tab*/
 const APP_ID = "";
 const APP_KEY = "";
 
